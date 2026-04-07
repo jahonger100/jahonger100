@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 💻 I’m learning programming and frontend  
+- 💻 I’m learning backend and frontend  
 - 🎯 Goal: become a **Backend Developer**  
 - ⚡ Improving every day  
 - 🔥 Not strong in JS yet — but working on it  
